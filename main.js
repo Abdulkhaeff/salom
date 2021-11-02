@@ -144,3 +144,76 @@
 // console.log(func("SheWalksToTheBeach"));
 // console.log(func("MarvinTalksTooMuch"));
 // console.log(func("TheGreatestUpsetInHistory"));
+
+
+
+// var a = 'welcome webbrain'
+// console.log(a.repeat(5).toUpperCase());
+
+
+
+// 1 masala yengil
+// const a = 25.5;
+// console.log(Math.round(a))
+
+// const a = 25.5
+// console.log(a.toFixed(0))
+
+// 2 masala yengil
+// abs
+// let a = -50
+// console.log((a-a)-a)
+
+
+// 3 masala yengil
+// pow
+
+// var raqam = 2;
+// var daraja = 3;
+
+// console.log(raqam ** daraja);
+
+// 4masala yengil
+
+// ceil 
+
+// let a = 100.3;
+// console.log(+(a + 0.5).toFixed(0))
+
+// 5 masala
+// floor
+// let a = 10.9;
+// console.log(+(a - 0.5).toFixed(0));
+
+// 6masala
+
+// sqrt
+// var a = 16;
+// console.log(a ** 0.5)
+// console.log(Math.sqrt(a))
+
+// 7masala
+
+// cbrt 
+
+// let a = 125;
+
+// console.log((a**(1/3)));
+// console.log(Math.cbrt(a))     
+
+
+
+// 8 masala
+// min 
+// let a = ()       topish kere
+
+
+
+/**
+ * @param {string} s
+ * @return {number}
+ */
+ var lengthOfLastWord = function(s) {
+    
+};
+ 
