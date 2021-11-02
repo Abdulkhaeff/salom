@@ -209,11 +209,11 @@
 
 
 
-/**
- * @param {string} s
- * @return {number}
- */
+//  @param {string} s
+//  @return {number}
+
  var lengthOfLastWord = function(s) {
-    
+    (lengthOfLastWord.substring(7, 12))
+    return lengthOfLastWord;
 };
  
