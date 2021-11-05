@@ -2,7 +2,7 @@
 // const removeNull = (str) =>
 // {
 //     for (let i = 0; i < str.length; i++) {
-        
+
 //         //  230.000 => 230
 
 //         if (str[i] == '.' && str[i+1] =='0') {
@@ -12,9 +12,9 @@
 //                 j++;
 //             }
 //         }
-        
+
 //         //  03.1400 => 3.14
-        
+
 //     if (str[i] == '.' && str[i+1] !=='0'){
 //         for(let i = 0; i<str.length; i++)
 //         {
@@ -30,9 +30,9 @@
 //     if(sum > 0)
 //     {
 //         return sum;
-        
+
 //     }
-    
+
 //         // 00402 => 402
 //    if (str.startsWith('0')) {
 //             for(let i = 0; i<str.length; i++)
@@ -212,8 +212,59 @@
 //  @param {string} s
 //  @return {number}
 
- var lengthOfLastWord = function(s) {
-    (lengthOfLastWord.substring(7, 12))
-    return lengthOfLastWord;
-};
+//  var lengthOfLastWord = function(s) {
+//     (lengthOfLastWord.substring(7, 12))
+//     return lengthOfLastWord;
+// };
+
+
+
+
+
+// vazifa
+
+// var fruits = ['apple', 12, 'Ananas', 'Orange', 'Banana', 'Kiwi'];
+// let resA = 0
+// let resB = 0
+// for (let i = 0; i < fruits.length; i++) {
+//     const element = fruits[i];
+   
+//     for (let j = 0; j < element.length; j++) {
+//         const el = element[j];
+//         console.log(el, 'j');
+
+//         if (el === 'a') {
+//             resA++
+//         }
+
+//         if (el === 'b') {
+//             resB++
+//         }
+
+
+
+//     }
  
+// }
+
+// console.log(resA, 'a');
+// console.log(resB, 'b');
+
+
+
+// 2-vazifa
+
+// var raqam = [12,34,45,33,45,223,113];
+// var hisob = 0;
+// // console.log(raqam.toString());
+// for (let i = 0; i < raqam.length; i++) {
+//     hisob += raqam[i]
+//         }
+
+// console.log(hisob)
+
+
+// 3-vazifa
+// var raqam = [12,10,32,21,33,42,11];
+
+
